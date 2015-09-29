@@ -1,0 +1,13 @@
+# Site settings
+title: Mobile And Web Development Club
+email: vtappdevelopement@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome! We are a group of VT students who develop mobile and web apps.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+permalink: /:year-:month-:day-:title
+
+# Build settings
+markdown: kramdown

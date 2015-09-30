@@ -88,12 +88,33 @@ permalink: /about/
              <p>...</p>
            </div>
          </div>
-      </div>
+      </div><!-- col -->
 
     </div>
 
-  </div>
-</div>
+    <div class="row">
+
+      <div class="col s10 m5">
+        <div class="card">
+           <div class="card-image waves-effect waves-block waves-light">
+             <img class="activator" src="http://tsenior.com/i/me_on_a_bike.jpeg">
+           </div>
+           <div class="card-content">
+             <span class="card-title activator grey-text text-darken-4">Trevor Senior<i class="material-icons right">more_vert</i></span>
+             <p><a href="https://github.com/trevorsenior">GitHub</a>,
+             <a href="http://tsenior.com/">Website</a></p>
+           </div>
+           <div class="card-reveal">
+             <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
+             <p>Oh hello. If you have any JavaScript questions bother me! View my website for more details.</p>
+           </div>
+         </div>
+      </div>
+
+    </div><!-- row -->
+
+  </div><!-- container -->
+</div><!-- section -->
 
 
 <div class="section">

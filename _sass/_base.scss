@@ -1,0 +1,82 @@
+body {
+    background-color: #FAFAFA;
+}
+
+
+$maroon: #91092f;
+$orange: #f88017;
+
+.parallax-container {
+    height: 500px;
+}
+
+.guest-speakers {
+    img {
+        height: 75px;
+        width: auto;
+    }
+}
+
+.app-logo-container {
+    height: 200px;
+    overflow: hidden;
+
+    img {
+        height: auto;
+        width: 100%;
+    }
+}
+
+
+.page {
+
+    min-height: 500px;
+
+    .resources {
+        img {
+            width: auto;
+            height: 75px;
+            display: block;
+            margin: 0 auto;
+        }
+    }
+}
+
+.post {
+    .parallax-container {
+        height: 350px;
+    }
+
+    article {
+
+        min-height: 500px;
+
+        // Bullets allowed in article
+        li { list-style: circle; margin-left: 25px; }
+        li li { list-style: disc; margin-left: 25px; }
+        li li li { list-style: square; margin-left: 25px; }
+    }
+}
+
+footer {
+    .heart {
+        -moz-animation-duration: 3s;
+        -webkit-animation-duration: 3s;
+        -moz-animation-name: marorange;
+        -webkit-animation-name: marorange;
+        -moz-animation-iteration-count: infinite;
+        -webkit-animation-iteration-count: infinite;
+        -moz-animation-direction: alternate;
+        -webkit-animation-direction: alternate;
+    }
+
+    @-moz-keyframes marorange {
+        from { color: $orange; }
+        to { color: $maroon; }
+    }
+
+    @-webkit-keyframes marorange {
+        from { color: $orange; }
+        to { color: $maroon; }
+    }
+}

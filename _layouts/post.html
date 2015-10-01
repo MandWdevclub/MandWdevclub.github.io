@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="post">
+  <div id="index-banner" class="parallax-container">
+      <div class="section no-pad-bot" {% if page.headingTextColor != "" %}style="color: {{page.headingTextColor}}"{% endif %}>
+          <br><br>
+          <h1 class="header center">{{ page.title }}</h1>
+          <div class="row center">
+            <h5>{{ page.date | date: '%B %d, %Y' }}</h5>
+          </div>
+          <div class="row center">
+            {% for category in page.categories %}
+               <div class="chip">{{ category }}</div>
+            {% endfor %}
+          </div>
+
+      </div>
+      <div class="parallax">
+          {% if page.headerImg != "" %}<img src="{{ page.headerImg }}">{% else %}<img src="/images/code_background.png">{% endif %}
+      </div>
+  </div>
+
+  <div class="section">
+    <div class="container">
+      <article>
+        {{ content }}
+      </article>
+    </div>
+  </div>
+</div>

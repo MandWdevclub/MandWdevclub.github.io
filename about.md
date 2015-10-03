@@ -8,7 +8,7 @@ permalink: /about/
 <div class="section"><div class="container">
   <h1>About Us</h1>
 
-  <p>Our club consists of students who truly care about the creation of new ideas through the use of software development. We facilitate this by teaching each other through workshops and investing our time in the Virginia Tech student developer community. We are an open source community, and to us, that means that we accept everyone willing to learn or give back through.</p>
+  <p>Our club consists of students who truly care about the creation of new ideas through the use of software development. We facilitate this by teaching each other through workshops and investing our time in the Virginia Tech student developer community. We're an open source community, and to us, that means that we accept everyone willing to learn or give back through teaching.</p>
 
 </div></div>
 
@@ -16,7 +16,7 @@ permalink: /about/
 <div class="section">
   <div class="container">
 
-    <h2>Leadership</h2>
+    <h2>Current Leaders</h2>
 
     <div class="row">
 
@@ -33,7 +33,7 @@ permalink: /about/
            </div>
            <div class="card-reveal">
              <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
-             <p>...</p>
+             <p>Hey there! Feel free to let me know if you ever want/need some help on a side project. The only thing I don't know is iOS, but I'm not afraid of learning if it means I can help!</p>
            </div>
          </div>
       </div>
@@ -120,14 +120,16 @@ permalink: /about/
 <div class="section">
   <div class="container">
 
-<h2>Past Leadership</h2>
+<h2>Past Leaders</h2>
 
 <ul>
 <li>Avneet Singh (<a href="https://github.com/avneet723">GitHub</a>, <a href="https://www.linkedin.com/in/avneets">LinkedIn</a>, <a href="https://twitter.com/avneet723">Twitter</a>)</li>
 <li>Wilson Mitchell (<a href="https://github.com/mitchellw">GitHub</a>, <a href="https://www.linkedin.com/in/wilsonmitchell">LinkedIn</a>, <a href="https://twitter.com/wilsonmobile">Twitter</a>)</li>
 <li>Elmer Landaverde (<a href="https://github.com/elmerland">GitHub</a>, <a href="https://www.linkedin.com/pub/elmer-landaverde/90/a38/177">LinkedIn</a>, <a href="https://twitter.com/elmerlandaverde">Twitter</a>)</li>
 <li>T'Keyaha Sawyers (<a href="https://github.com/theordinaryhero">GitHub</a>, <a href="https://www.linkedin.com/in/tksawyers">LinkedIn</a>)</li>
+<li>Jon Savage (<a href="https://github.com/jsavage06">GitHub</a>, <a href="https://www.linkedin.com/in/savagejon">LinkedIn</a>)</li>
 </ul>
+
 
   </div>
 </div>

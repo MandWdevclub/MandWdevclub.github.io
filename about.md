@@ -65,7 +65,8 @@ permalink: /about/
            </div>
            <div class="card-content">
              <span class="card-title activator grey-text text-darken-4">Alex Marshall<i class="material-icons right">more_vert</i></span>
-             <p><a href="https://github.com/amhokies">GitHub</a></p>
+             <p><a href="https://github.com/amhokies">GitHub</a>,
+                <a href="https://www.linkedin.com/pub/alex-marshall/106/524/bb3">LinkedIn</a></p>
            </div>
            <div class="card-reveal">
              <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>

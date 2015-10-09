@@ -1,6 +1,6 @@
-# MobileAppDevelopmentClubWebsite
+# Web and Mobile Development Club @ Virginia Tech
 
-Website: http://mandwdevclub.github.io/
+Website: http://wmdclub-vt.org/
 
 ## Want to make changes?
 

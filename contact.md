@@ -23,4 +23,24 @@ This is the best way to ask questions and get answers about apps.
 
 <a href="mailto:vtappdevelopement@gmail.com">vtappdevelopement@gmail.com</a>
 
+### For Business Inquiries 
+
+For business inquiries be specific on what you want. Just specifying that you want "X app" built is not enough information to pass along to the club.
+
+**Bad example (don't do this!)**
+
+Department XYZ was wondering if any members of the club are interested in payment to build an app for us. Can you ask the members in your club if they are interested?
+
+**Better**
+
+Department XYZ is looking for interested members of your club to build an ~Android/iOS/Web/etc~ app for us. The application will be used for ~something~ and ~something else~. It will have the following functionality.
+
+* feature 1
+* requirement 2
+* stretch goal 1
+* etc.
+
+~insert payment info if applicable~
+
+
 </div>

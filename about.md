@@ -112,6 +112,26 @@ permalink: /about/
          </div>
       </div>
 
+	<div class="row">
+<!--Arman's thing
+-->
+      <div class="col s10 m5">
+        <div class="card">
+           <div class="card-image waves-effect waves-block waves-light">
+             <img class="activator" src="https://avatars1.githubusercontent.com/u/10679322?v=3&u=2ada203a0b59f97256bf780adb4166f8c9049ed0&s=140" />
+           </div>
+           <div class="card-content">
+             <span class="card-title activator grey-text text-darken-4">Arman Bahraini<i class="material-icons right">more_vert</i></span>
+             <p><a href="https://github.com/MegaArman">GitHub</a>,
+             <a href="https://www.linkedin.com/in/arman-bahraini-21b171106">LinkedIn</a>,
+           </div>
+           <div class="card-reveal">
+             <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
+             <p> Hey I'm Arman and I dig Android.</p>
+           </div>
+         </div>
+      </div>
+
     </div><!-- row -->
 
   </div><!-- container -->

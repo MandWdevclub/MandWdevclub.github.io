@@ -116,8 +116,7 @@ permalink: /about/
 	<div class="col s10 m5">
         <div class="card">
            <div class="card-image waves-effect waves-block waves-light">
-             <img class="activator" src="https://avatars1.githubusercontent.com/u/10679322?v=3&amp;
-             u=2ada203a0b59f97256bf780adb4166f8c9049ed0&amp;s=140">
+             <img class="activator" src="https://avatars1.githubusercontent.com/u/10679322?v=3&amp;u=2ada203a0b59f97256bf780adb4166f8c9049ed0&amp;s=140">
            </div>
            <div class="card-content">
              <span class="card-title activator grey-text text-darken-4">Arman Bahraini<i class="material-icons right">more_vert</i></span>

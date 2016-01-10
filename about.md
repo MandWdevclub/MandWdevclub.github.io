@@ -39,6 +39,24 @@ permalink: /about/
       </div>
 
 
+<div class="col s10 m5">
+        <div class="card">
+           <div class="card-image waves-effect waves-block waves-light">
+             <img class="activator" src="https://avatars2.githubusercontent.com/u/3871168?v=3&s=460">
+           </div>
+           <div class="card-content">
+             <span class="card-title activator grey-text text-darken-4">Edward McEnrue<i class="material-icons right">more_vert</i></span>
+             <p><a href="https://github.com/emcenrue">GitHub</a>,
+             <a href="https://www.linkedin.com/pub/edward-mcenrue/49/792/b9/">LinkedIn</a>,
+             <a href="https://twitter.com/yoedmcenrue">Twitter</a></p>
+           </div>
+           <div class="card-reveal">
+             <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
+             <p>Hey there! Feel free to let me know if you ever want/need some help on a side project. The only thing I don't know is iOS, but I'm not afraid of learning if it means I can help!</p>
+           </div>
+         </div>
+      </div>
+
       <div class="col s10 m5">
         <div class="card">
            <div class="card-image waves-effect waves-block waves-light">

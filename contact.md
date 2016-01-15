@@ -9,11 +9,12 @@ permalink: /contact/
 
 <div class="container">
 
-## Facebook
+## Slack
 
-This is the best way to ask questions and get answers about apps.
+This is the best way to ask questions and get answers about apps. You can request to be added by contacting vtappdevelopment@gmail.com
 
-[Facebook Group](https://www.facebook.com/groups/274563705969142/)
+[Slack Channel](https://developersnetworkvt.slack.com/messages/general/)
+
 
 ## Google Groups
 

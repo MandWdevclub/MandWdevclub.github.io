@@ -21,6 +21,6 @@ This is the best way to ask questions and get answers about apps.
 
 ## Email
 
-<a href="mailto:vtappdevelopement@gmail.com">vtappdevelopement@gmail.com</a>
+<a href="mailto:vtappdevelopment@gmail.com">vtappdevelopement@gmail.com</a>
 
 </div>

@@ -98,7 +98,7 @@ permalink: /about/
       <div class="col s10 m5">
         <div class="card">
            <div class="card-image waves-effect waves-block waves-light">
-             <img class="activator" src="http://tsenior.com/i/me_on_a_bike.jpeg">
+             <img class="activator" src="https://raw.githubusercontent.com/trevorsenior/tsenior.com-443/master/src/image/me-on-a-bike.jpg">
            </div>
            <div class="card-content">
              <span class="card-title activator grey-text text-darken-4">Trevor Senior<i class="material-icons right">more_vert</i></span>

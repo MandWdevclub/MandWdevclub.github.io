@@ -9,7 +9,7 @@ permalink: /
     <div class="section no-pad-bot">
       <div class="container">
         <br><br>
-        <h1 class="header center orange-text text-lighten-5">Mobile & Web Development Club</h1>
+        <h1 class="header center orange-text text-lighten-5">Web & Mobile App Development club</h1>
         <div class="row center">
           <h5 class="header col s12 light orange-text text-lighten-5">Welcome! We are a group of VT students who develop mobile and web apps.</h5>
         </div>

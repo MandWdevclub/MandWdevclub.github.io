@@ -9,7 +9,9 @@ permalink: /apps/
   <div class="container">
 
     <h2>Club made apps</h2>
-
+    <p>
+      Note that these apps may not be up to date and may have been made by now allumni!
+    </p>
     <div class="row">
 
       <div class="col s12 m3">

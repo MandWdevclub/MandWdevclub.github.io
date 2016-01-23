@@ -9,6 +9,14 @@ permalink: /contact/
 
 <div class="container">
 
+## Email
+
+<a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
+
+## Facebook
+
+https://www.facebook.com/groups/274563705969142/
+
 ## Slack
 
 This is the best way to ask questions and get answers about apps. You can request to be added by contacting vtappdevelopment@gmail.com
@@ -20,9 +28,7 @@ This is the best way to ask questions and get answers about apps. You can reques
 
 [Web & Mobile App Dev Club](https://groups.google.com/forum/#!forum/webandmobileappdevclub)
 
-## Email
 
-<a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
 
 ### For Business Inquiries 
 

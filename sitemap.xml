@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://wmdclub-vt.org/</loc>
+  <lastmod>2016-01-24T07:11:48+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmdclub-vt.org/about/</loc>
+  <lastmod>2016-01-24T07:11:48+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmdclub-vt.org/apps/</loc>
+  <lastmod>2016-01-24T07:11:48+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmdclub-vt.org/contact/</loc>
+  <lastmod>2016-01-24T07:11:48+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmdclub-vt.org/meetups/</loc>
+  <lastmod>2016-01-24T07:11:48+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmdclub-vt.org/posts/</loc>
+  <lastmod>2016-01-24T07:11:48+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmdclub-vt.org/resources/</loc>
+  <lastmod>2016-01-24T07:11:48+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmdclub-vt.org/2015-09-29-adding-a-post/</loc>
+  <lastmod>2016-01-24T07:11:48+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmdclub-vt.org/2015-10-02-first-post/</loc>
+  <lastmod>2016-01-24T07:11:48+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmdclub-vt.org/2015-09-28-moving-to-jekyll/</loc>
+  <lastmod>2016-01-24T07:11:48+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>

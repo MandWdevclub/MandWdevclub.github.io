@@ -138,7 +138,7 @@ permalink: /about/
 <li>Elmer Landaverde (<a href="https://github.com/elmerland">GitHub</a>, <a href="https://www.linkedin.com/pub/elmer-landaverde/90/a38/177">LinkedIn</a>, <a href="https://twitter.com/elmerlandaverde">Twitter</a>)</li>
 <li>T'Keyaha Sawyers (<a href="https://github.com/theordinaryhero">GitHub</a>, <a href="https://www.linkedin.com/in/tksawyers">LinkedIn</a>)</li>
 <li>Jon Savage (<a href="https://github.com/jsavage06">GitHub</a>, <a href="https://www.linkedin.com/in/savagejon">LinkedIn</a>)</li>
-<li>Laxmi Harshitha Patha( <a href="https://www.linkedin.com/pub/laxmi-harshitha-patha/65/609/387">LinkedIn</a>)</li>
+<li>Laxmi Harshitha Patha (<a href="https://www.linkedin.com/pub/laxmi-harshitha-patha/65/609/387">LinkedIn</a>)</li>
 </ul>
 
 

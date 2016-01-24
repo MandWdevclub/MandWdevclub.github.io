@@ -4,7 +4,7 @@ title: Web & Mobile Application Development Club
 updated: 2015-09-21
 permalink: /
 ---
-<meta name="google-site-verification" content="i1B_dZM8nfMc6hy8G_94n_ebofaG5Fvp2bBLurRSK6c" />
+
 
 <div id="index-banner" class="parallax-container">
     <div class="section no-pad-bot">

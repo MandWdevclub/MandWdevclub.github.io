@@ -17,7 +17,7 @@ permalink: /apps/
       <div class="col s12 m3">
         <div class="card">
           <div class="card-image">
-            <img src="/images/hokie_helper_resized_logo.webp">
+            <img src="https://lh3.ggpht.com/iaSaQWZHDkoJiwO0zmGJkHsoHutMqej5nulxth_ufNy34ZPY9M1O8OnegGxD3TFD8pw=w300">
             <span class="card-title">Hokie Helper</span>
           </div>
           <div class="card-action">

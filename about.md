@@ -77,25 +77,6 @@ permalink: /about/
          </div>
       </div>
 
-      <div class="col s10 m5">
-        <div class="card">
-           <div class="card-image waves-effect waves-block waves-light">
-             <img class="activator" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/2/005/060/2c0/1f432ef.jpg">
-           </div>
-           <div class="card-content">
-             <span class="card-title activator grey-text text-darken-4">Laxmi Harshitha Patha<i class="material-icons right">more_vert</i></span>
-             <p><a href="https://www.linkedin.com/pub/laxmi-harshitha-patha/65/609/387">LinkedIn</a></p>
-           </div>
-           <div class="card-reveal">
-             <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
-             <p>...</p>
-           </div>
-         </div>
-      </div><!-- col -->
-
-    </div>
-
-    <div class="row">
 
       <div class="col s10 m5">
         <div class="card">
@@ -113,6 +94,11 @@ permalink: /about/
            </div>
          </div>
       </div>
+    </div>
+
+    <div class="row">
+
+
 
 
 	<div class="col s10 m5">
@@ -152,6 +138,7 @@ permalink: /about/
 <li>Elmer Landaverde (<a href="https://github.com/elmerland">GitHub</a>, <a href="https://www.linkedin.com/pub/elmer-landaverde/90/a38/177">LinkedIn</a>, <a href="https://twitter.com/elmerlandaverde">Twitter</a>)</li>
 <li>T'Keyaha Sawyers (<a href="https://github.com/theordinaryhero">GitHub</a>, <a href="https://www.linkedin.com/in/tksawyers">LinkedIn</a>)</li>
 <li>Jon Savage (<a href="https://github.com/jsavage06">GitHub</a>, <a href="https://www.linkedin.com/in/savagejon">LinkedIn</a>)</li>
+<li>Laxmi Harshitha Patha( <a href="https://www.linkedin.com/pub/laxmi-harshitha-patha/65/609/387">LinkedIn</a>)</li>
 </ul>
 
 

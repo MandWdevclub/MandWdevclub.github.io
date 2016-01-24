@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mobile & Web Development Club
+title: Web & Mobile Application Development Club
 updated: 2015-09-21
 permalink: /
 ---

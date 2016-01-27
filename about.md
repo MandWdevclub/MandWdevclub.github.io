@@ -97,25 +97,6 @@ permalink: /about/
              </div>
           </div>
 
-      <!-- <div class="col s10 m5">
-        <div class="card">
-           <div class="card-image waves-effect waves-block waves-light">
-             <img class="activator" src="https://raw.githubusercontent.com/trevorsenior/tsenior.com-443/master/src/image/me-on-a-bike.jpg">
-           </div>
-           <div class="card-content">
-             <span class="card-title activator grey-text text-darken-4">Trevor Senior<i class="material-icons right">more_vert</i></span>
-             <p><a href="https://github.com/trevorsenior">GitHub</a>,
-             <a href="http://tsenior.com/">Website</a></p>
-           </div>
-           <div class="card-reveal">
-             <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
-             <p>Oh hello. If you have any JavaScript questions bother me! View my website for more details.</p>
-           </div>
-         </div>
-      </div>
-    </div> -->
-
-
   </div><!-- container -->
 </div><!-- section -->
 
@@ -132,7 +113,7 @@ permalink: /about/
 <li>T'Keyaha Sawyers (<a href="https://github.com/theordinaryhero">GitHub</a>, <a href="https://www.linkedin.com/in/tksawyers">LinkedIn</a>)</li>
 <li>Jon Savage (<a href="https://github.com/jsavage06">GitHub</a>, <a href="https://www.linkedin.com/in/savagejon">LinkedIn</a>)</li>
 <li>Laxmi Harshitha Patha (<a href="https://www.linkedin.com/pub/laxmi-harshitha-patha/65/609/387">LinkedIn</a>)</li>
-<li>Trevor Senior (<a href="https://github.com/trevorsenior">LinkedIn</a>)</li>
+<li>Trevor Senior (<a href="https://github.com/trevorsenior">GitHub</a>)</li>
 </ul>
 
 

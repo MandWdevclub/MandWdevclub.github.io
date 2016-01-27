@@ -79,6 +79,25 @@ permalink: /about/
 
 
       <div class="col s10 m5">
+            <div class="card">
+               <div class="card-image waves-effect waves-block waves-light">
+                 <img class="activator" src="https://avatars1.githubusercontent.com/u/10679322?v=3&amp;u=2ada203a0b59f97256bf780adb4166f8c9049ed0&amp;s=140">
+               </div>
+               <div class="card-content">
+                 <span class="card-title activator grey-text text-darken-4">Arman Bahraini<i class="material-icons right">more_vert</i></span>
+                 <p><a href="https://github.com/MegaArman">GitHub</a>,
+                 <a href="https://www.linkedin.com/in/arman-bahraini-21b171106">LinkedIn</a>,
+                 <a href="http://armanbahraini.com">armanbahraini.com</a>
+    			</p>
+               </div>
+               <div class="card-reveal">
+                 <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
+                 <p>Hey I'm Arman and I dig Android.</p>
+               </div>
+             </div>
+          </div>
+
+      <!-- <div class="col s10 m5">
         <div class="card">
            <div class="card-image waves-effect waves-block waves-light">
              <img class="activator" src="https://raw.githubusercontent.com/trevorsenior/tsenior.com-443/master/src/image/me-on-a-bike.jpg">
@@ -94,35 +113,8 @@ permalink: /about/
            </div>
          </div>
       </div>
-    </div>
+    </div> -->
 
-    <div class="row">
-
-
-
-
-	<div class="col s10 m5">
-        <div class="card">
-           <div class="card-image waves-effect waves-block waves-light">
-             <img class="activator" src="https://avatars1.githubusercontent.com/u/10679322?v=3&amp;u=2ada203a0b59f97256bf780adb4166f8c9049ed0&amp;s=140">
-           </div>
-           <div class="card-content">
-             <span class="card-title activator grey-text text-darken-4">Arman Bahraini<i class="material-icons right">more_vert</i></span>
-             <p><a href="https://github.com/MegaArman">GitHub</a>,
-             <a href="https://www.linkedin.com/in/arman-bahraini-21b171106">LinkedIn</a>,
-             <a href="http://armanbahraini.com">armanbahraini.com</a>
-			</p>
-           </div>
-           <div class="card-reveal">
-             <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
-             <p>Hey I'm Arman and I dig Android.</p>
-           </div>
-         </div>
-      </div>
-
-
-
-    </div><!-- row -->
 
   </div><!-- container -->
 </div><!-- section -->
@@ -140,6 +132,7 @@ permalink: /about/
 <li>T'Keyaha Sawyers (<a href="https://github.com/theordinaryhero">GitHub</a>, <a href="https://www.linkedin.com/in/tksawyers">LinkedIn</a>)</li>
 <li>Jon Savage (<a href="https://github.com/jsavage06">GitHub</a>, <a href="https://www.linkedin.com/in/savagejon">LinkedIn</a>)</li>
 <li>Laxmi Harshitha Patha (<a href="https://www.linkedin.com/pub/laxmi-harshitha-patha/65/609/387">LinkedIn</a>)</li>
+<li>Trevor Senior (<a href="https://github.com/trevorsenior">LinkedIn</a>)</li>
 </ul>
 
 

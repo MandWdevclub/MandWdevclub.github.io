@@ -17,16 +17,16 @@ permalink: /contact/
 
 https://www.facebook.com/groups/274563705969142/
 
-## Slack
+<!--## Slack-->
 
-This is the best way to ask questions and get answers about apps. You can request to be added by contacting vtappdevelopment@gmail.com
+<!--This is the best way to ask questions and get answers about apps. You can request to be added by contacting vtappdevelopment@gmail.com-->
 
-[Slack Channel](https://developersnetworkvt.slack.com/messages/general/)
+<!--[Slack Channel](https://developersnetworkvt.slack.com/messages/general/)-->
 
 
-## Google Groups
+<!--## Google Groups-->
 
-[Web & Mobile App Dev Club](https://groups.google.com/forum/#!forum/webandmobileappdevclub)
+<!--[Web & Mobile App Dev Club](https://groups.google.com/forum/#!forum/webandmobileappdevclub)-->
 
 
 

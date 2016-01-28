@@ -86,8 +86,7 @@ permalink: /about/
                <div class="card-content">
                  <span class="card-title activator grey-text text-darken-4">Arman Bahraini<i class="material-icons right">more_vert</i></span>
                  <p><a href="https://github.com/MegaArman">GitHub</a>,
-                 <a href="https://www.linkedin.com/in/arman-bahraini-21b171106">LinkedIn</a>,
-                 <a href="http://armanbahraini.com">armanbahraini.com</a>
+                 <a href="https://www.linkedin.com/in/arman-bahraini-21b171106">LinkedIn</a>
     			</p>
                </div>
                <div class="card-reveal">

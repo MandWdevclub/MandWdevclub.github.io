@@ -14,8 +14,8 @@ permalink: /contact/
 <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
 
 ## Facebook
+<a href="https://www.facebook.com/groups/274563705969142/">Group page (must be a VT student on FB)</a>
 
-https://www.facebook.com/groups/274563705969142/
 
 <!--## Slack-->
 
@@ -30,7 +30,7 @@ https://www.facebook.com/groups/274563705969142/
 
 
 
-### For Business Inquiries 
+### For Business Inquiries
 
 For business inquiries be specific on what you want. Just specifying that you want "X app" built is not enough information to pass along to the club.
 

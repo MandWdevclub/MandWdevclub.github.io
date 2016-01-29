@@ -1,4 +1,4 @@
-# Web and Mobile Development Club @ Virginia Tech
+# Web and Mobile App Development Club @ Virginia Tech
 
 Website: http://wmdclub-vt.org/
 

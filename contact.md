@@ -10,7 +10,7 @@ permalink: /contact/
 <div class="container">
 
 ## Email
-TESTINGGG
+
 <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
 
 ## Facebook

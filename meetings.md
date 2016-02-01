@@ -12,7 +12,7 @@ permalink: /meetups/
 ## Meetups
 
 
-Meetups are held every Tuesday from 6:30 PM to 7:30 PM in [Lavery Hall](https://www.vt.edu/about/buildings/lavery-hall.html) room 345. Meetups usually vary from workshops to tech talks to group work on apps.
+Meetups are held Tuesdays or Thursday at  6:30PM in [Lavery Hall](https://www.vt.edu/about/buildings/lavery-hall.html) room 345. Meetups usually vary from workshops to tech talks to group work on apps.
 
 ## Meetup Scheduling
 

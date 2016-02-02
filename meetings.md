@@ -22,6 +22,6 @@ See our current meetup schedule here:
 
 [WMAD Scheduling Doc](https://docs.google.com/spreadsheets/d/18H-BZ3bbCrlfh9VP736lQxdCRYvvAoq50FSc51RaKfY/edit?usp=sharing)
 
-<iframe style="width: 100%; height: 600px" src="https://docs.google.com/spreadsheets/d/18H-BZ3bbCrlfh9VP736lQxdCRYvvAoq50FSc51RaKfY/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe style="width: 150%; height: 750px" src="https://docs.google.com/spreadsheets/d/18H-BZ3bbCrlfh9VP736lQxdCRYvvAoq50FSc51RaKfY/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 </div>

@@ -40,26 +40,6 @@ permalink: /about/
          </div>
       </div>
 
-
-      <div class="col s10 m5">
-        <div class="card">
-           <div class="card-image waves-effect waves-block waves-light">
-             <img class="activator" src="https://avatars0.githubusercontent.com/u/10526120?v=3&s=460">
-           </div>
-           <div class="card-content">
-             <span class="card-title activator grey-text text-darken-4">Irtiza Delwar<i class="material-icons right">more_vert</i></span>
-             <p><a href="https://github.com/IrtizaDelwar">GitHub</a></p>
-           </div>
-           <div class="card-reveal">
-             <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
-             <p>...</p>
-           </div>
-         </div>
-      </div>
-
-    </div>
-    <div class="row">
-
       <div class="col s10 m5">
         <div class="card">
            <div class="card-image waves-effect waves-block waves-light">
@@ -76,8 +56,8 @@ permalink: /about/
            </div>
          </div>
       </div>
-
-
+    </div>
+    <div class="row">
       <div class="col s10 m5">
             <div class="card">
                <div class="card-image waves-effect waves-block waves-light">
@@ -113,6 +93,7 @@ permalink: /about/
 <li>Jon Savage (<a href="https://github.com/jsavage06">GitHub</a>, <a href="https://www.linkedin.com/in/savagejon">LinkedIn</a>)</li>
 <li>Laxmi Harshitha Patha (<a href="https://www.linkedin.com/pub/laxmi-harshitha-patha/65/609/387">LinkedIn</a>)</li>
 <li>Trevor Senior (<a href="https://github.com/trevorsenior">GitHub</a>)</li>
+<li>Irtiza Delwar (<a href="https://github.com/IrtizaDelwar">GitHub</a>)</li>
 </ul>
 
 

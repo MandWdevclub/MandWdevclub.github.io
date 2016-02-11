@@ -84,7 +84,7 @@ permalink: /about/
                    <div class="card-content">
                      <span class="card-title activator grey-text text-darken-4">Jayanth Prathipati<i class="material-icons right">more_vert</i></span>
                      <p><a href="http://github.com/jayprat95">GitHub</a>,
-                     <a href="http://jprathipati.com">Website</a>
+                     <a href="http://jprathipati.com">jprathipati.com</a>
         			</p>
                    </div>
                    <div class="card-reveal">

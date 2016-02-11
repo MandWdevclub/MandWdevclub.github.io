@@ -76,6 +76,24 @@ permalink: /about/
              </div>
           </div>
 
+          <div class="col s10 m5">
+                <div class="card">
+                   <div class="card-image waves-effect waves-block waves-light">
+                     <img class="activator" src="http://static1.squarespace.com/static/55fdcb52e4b0954443b8b326/t/55febc1ce4b0333acc0630da/1442757678617/?format=750w">
+                   </div>
+                   <div class="card-content">
+                     <span class="card-title activator grey-text text-darken-4">Jayanth Prathipati<i class="material-icons right">more_vert</i></span>
+                     <p><a href="http://github.com/jayprat95">GitHub</a>,
+                     <a href="http://jprathipati.com">Website</a>
+        			</p>
+                   </div>
+                   <div class="card-reveal">
+                     <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
+                     <p>Hi, I'm Jayanth. I'm the creator of Compost and an iOS developer at Element 84. I also do research at the Usability Lab at Virginia Tech</p>
+                   </div>
+                 </div>
+              </div>
+
   </div><!-- container -->
 </div><!-- section -->
 

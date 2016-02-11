@@ -79,7 +79,7 @@ permalink: /about/
           <div class="col s10 m5">
                 <div class="card">
                    <div class="card-image waves-effect waves-block waves-light">
-                     <img class="activator" src="http://static1.squarespace.com/static/55fdcb52e4b0954443b8b326/t/55febc1ce4b0333acc0630da/1442757678617/?format=750w">
+                     <img class="activator" src="/images/jayanthpic.png">
                    </div>
                    <div class="card-content">
                      <span class="card-title activator grey-text text-darken-4">Jayanth Prathipati<i class="material-icons right">more_vert</i></span>

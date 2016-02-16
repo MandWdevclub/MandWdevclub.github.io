@@ -23,6 +23,6 @@ See our current meetup schedule here:
 
 <iframe style="width: 100%; height: 600px" src="https://docs.google.com/spreadsheets/d/18H-BZ3bbCrlfh9VP736lQxdCRYvvAoq50FSc51RaKfY/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe> -->
 
-<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ff9900&amp;src=vtappdevelopment%40gmail.com&amp;color=%23BE6D00&amp;ctz=America%2FNew_York" style="border-width:0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ff9900&amp;src=vtappdevelopment%40gmail.com&amp;color=%23BE6D00&amp;ctz=America%2FNew_York" style="border-width:0" width="100%" height="500" frameborder="0" scrolling="no" alt="https://calendar.google.com/calendar/embed?src=vtappdevelopment%40gmail.com&ctz=America/New_York"></iframe>
 
 </div>

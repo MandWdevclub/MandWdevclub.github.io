@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://wmad.cs.vt.edu/</loc>
+  <lastmod>2016-02-23T13:43:46+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmad.cs.vt.edu/about/</loc>
+  <lastmod>2016-02-23T13:43:46+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmad.cs.vt.edu/apps/</loc>
+  <lastmod>2016-02-23T13:43:46+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmad.cs.vt.edu/contact/</loc>
+  <lastmod>2016-02-23T13:43:46+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmad.cs.vt.edu/meetups/</loc>
+  <lastmod>2016-02-23T13:43:46+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmad.cs.vt.edu/posts/</loc>
+  <lastmod>2016-02-23T13:43:46+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmad.cs.vt.edu/resources/</loc>
+  <lastmod>2016-02-23T13:43:46+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmad.cs.vt.edu/2015-10-02-first-post</loc>
+  <lastmod>2016-02-23T13:43:46+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmad.cs.vt.edu/2015-09-29-adding-a-post</loc>
+  <lastmod>2016-02-23T13:43:46+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>http://wmad.cs.vt.edu/2015-09-28-moving-to-jekyll</loc>
+  <lastmod>2016-02-23T13:43:46+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+</urlset>

@@ -11,6 +11,18 @@ Website: http://wmad.cs.vt.edu/
 ### Setup
 
 1. Make sure ruby is on your system
+
+A) Install a version of Ruby (if you have a 64 bit machine make sure you download the x64 one!) https://www.ruby-lang.org/en/documentation/installation/ 
+B) Install a devkit (read the side notes they put- download the right one!) : http://rubyinstaller.org/downloads/
+-Configuring your DevKit/binding it to your path:
+" Quick start (https://github.com/oneclick/rubyinstaller/wiki/Development-Kit)
+Download it, run it to extract it somewhere (permanent). 
+Then (with the "Command Prompt with Ruby", you installed this in A):
+cd to it, run ruby dk.rb init and ruby dk.rb install to bind it to ruby installations in your path."
+
+
+Then with the Command Prompt with Ruby again do...
+
 2. If you don't already have it, install bundler `gem install bundler`
 3. In the project root, run `bundle install` to get dependencies for Jekyll
 4. Start the development server with `bundle exec jekyll serve`

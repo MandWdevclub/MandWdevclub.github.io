@@ -10,8 +10,6 @@ Website: http://wmad.cs.vt.edu/
 
 ### Setup
 
-PRE: Make sure ruby is on your system
-
 A) Install a version of Ruby (if you have a 64 bit machine make sure you download the x64 one!)
 
 https://www.ruby-lang.org/en/documentation/installation/ 

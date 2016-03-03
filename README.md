@@ -1,6 +1,6 @@
 # Web and Mobile App Development Club @ Virginia Tech
 
-Website: http://wmdclub-vt.org/
+Website: http://wmad.cs.vt.edu/
 
 ## Want to make changes?
 

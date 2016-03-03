@@ -10,12 +10,20 @@ Website: http://wmad.cs.vt.edu/
 
 ### Setup
 
-1. Make sure ruby is on your system
+PRE: Make sure ruby is on your system
 
-A) Install a version of Ruby (if you have a 64 bit machine make sure you download the x64 one!) https://www.ruby-lang.org/en/documentation/installation/ 
+A) Install a version of Ruby (if you have a 64 bit machine make sure you download the x64 one!)
+
+https://www.ruby-lang.org/en/documentation/installation/ 
+
 B) Install a devkit (read the side notes they put- download the right one!) : http://rubyinstaller.org/downloads/
+
+
 -Configuring your DevKit/binding it to your path:
-" Quick start (https://github.com/oneclick/rubyinstaller/wiki/Development-Kit)
+
+From (https://github.com/oneclick/rubyinstaller/wiki/Development-Kit):
+
+" Quick start 
 Download it, run it to extract it somewhere (permanent). 
 Then (with the "Command Prompt with Ruby", you installed this in A):
 cd to it, run ruby dk.rb init and ruby dk.rb install to bind it to ruby installations in your path."

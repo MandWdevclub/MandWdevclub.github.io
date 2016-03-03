@@ -19,7 +19,7 @@ https://www.ruby-lang.org/en/documentation/installation/
 B) Install a devkit (read the side notes they put- download the right one!) : http://rubyinstaller.org/downloads/
 
 
--Configuring your DevKit/binding it to your path:
+C) Configuring your DevKit/binding it to your path:
 
 From (https://github.com/oneclick/rubyinstaller/wiki/Development-Kit):
 
@@ -29,7 +29,7 @@ Then (with the "Command Prompt with Ruby", you installed this in A):
 cd to it, run ruby dk.rb init and ruby dk.rb install to bind it to ruby installations in your path."
 
 
-Then with the Command Prompt with Ruby again do...
+D) Putting everything together, with the Command Prompt with Ruby do...
 
 2. If you don't already have it, install bundler `gem install bundler`
 3. In the project root, run `bundle install` to get dependencies for Jekyll

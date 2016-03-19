@@ -10,7 +10,7 @@ permalink: /posts/
 
 <h1>Posts</h1>
 
-<a href="/2015-09-29-adding-a-post/">Want to add or edit a post?</a>
+<a href="/2015-09-29-adding-a-post">Want to add or edit a post?</a>
 
 <ul class="collection">
 {% for post in site.posts %}

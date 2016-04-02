@@ -13,7 +13,7 @@ permalink: /meetups/
 
 -Meetups are held Tuesdays or Thursday at  6:30PM in [Lavery Hall](https://www.vt.edu/about/buildings/lavery-hall.html) room 345. Meetups usually vary from workshops to tech talks to group work on apps.
  
--Visit our <a href="http://www.w3schools.com/html/">club GitHub</a> where prior meeting material lives
+-Visit our <a href="https://github.com/wmad">club GitHub</a> where prior meeting material lives
  
 ## Meetup Scheduling
 

@@ -10,8 +10,10 @@ permalink: /contact/
 <div class="container">
 
 ## Email
-
+ 
 <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
+
+Send "listserv" to our email, if you want weekly club news
 
 ## Facebook
 <a href="https://www.facebook.com/groups/274563705969142/">Group page (must be a VT student on FB)</a>

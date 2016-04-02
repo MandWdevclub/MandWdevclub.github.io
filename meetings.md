@@ -11,15 +11,15 @@ permalink: /meetups/
 
 ## Meetups
 
-Meetups are held Tuesdays or Thursday at  6:30PM in [Lavery Hall](https://www.vt.edu/about/buildings/lavery-hall.html) room 345. Meetups usually vary from workshops to tech talks to group work on apps.
+-Meetups are held Tuesdays or Thursday at  6:30PM in [Lavery Hall](https://www.vt.edu/about/buildings/lavery-hall.html) room 345. Meetups usually vary from workshops to tech talks to group work on apps.
  
- Visit our <a href="http://www.w3schools.com/html/">club GitHub</a> where prior meeting material lives
+-Visit our <a href="http://www.w3schools.com/html/">club GitHub</a> where prior meeting material lives
  
 ## Meetup Scheduling
 
 Anyone can lead a meetup if they have a topic they're passionate about. Just email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>.
 
-See our current meetup schedule here:
+Current meetup schedule (subject to change):
 
 <!-- [WMAD Scheduling Doc](https://docs.google.com/spreadsheets/d/18H-BZ3bbCrlfh9VP736lQxdCRYvvAoq50FSc51RaKfY/edit?usp=sharing)
 

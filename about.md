@@ -98,11 +98,12 @@ permalink: /about/
   </div><!-- container -->
 </div><!-- section -->
  
- <div class="section">
+<div class="section">
 <p>
 Want to be a leader? Host a workshop/tech talk for us!
 Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a> !
 </p>
+</div> 
 
 <div class="section">
   <div class="container">

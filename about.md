@@ -109,7 +109,7 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
 
 <div class="section">
   <div class="container">
-</div>
+
 <h2>Past Leaders</h2>
 
 <ul>

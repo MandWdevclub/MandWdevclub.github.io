@@ -9,8 +9,13 @@ permalink: /about/
   <h1>About Us</h1>
 
   <p>Formerly known as just MAD (Mobile Application Development club). Founded in Fall 2010.
-    Became WMAD (Web and Mobile App Development club) in 2016. <br><br>
-  Our club consists of VT students who truly care about the creation of new ideas through the use of software development. We facilitate this by teaching each other through workshops and investing our time in the Virginia Tech student developer community. We're an open source community, and to us, that means that we accept everyone willing to learn or give back through teaching.</p>
+    Became WMAD (Web and Mobile App Development club) in 2016.
+    <br><br>
+  Our club consists of VT students who truly care about the creation of new ideas through the use of software development. We facilitate this by teaching each other through workshops and investing our time in the Virginia Tech student developer community. We're an open source community, and to us, that means that we accept everyone willing to learn or give back through teaching.
+  <br><br>
+Want to be a leader? Host a workshop/tech talk for us!
+Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a> !
+</p>
 
 </div></div>
 
@@ -98,15 +103,6 @@ permalink: /about/
   </div><!-- container -->
 </div><!-- section -->
  
-<div class="section">
-  <div class="container">
-<p>
-Want to be a leader? Host a workshop/tech talk for us!
-Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a> !
-</p>
-  </div>
-</div>
-
 <div class="section">
   <div class="container">
 

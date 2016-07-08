@@ -66,7 +66,7 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
       <div class="col s10 m5">
             <div class="card">
                <div class="card-image waves-effect waves-block waves-light">
-                 <img class="activator" src="/images/armanpic.png">
+                 <img class="activator" src="/images/armanpic.PNG">
                </div>
                <div class="card-content">
                  <span class="card-title activator grey-text text-darken-4">Arman Bahraini<i class="material-icons right">more_vert</i></span>

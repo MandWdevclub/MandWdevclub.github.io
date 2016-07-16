@@ -20,7 +20,6 @@ permalink: /posts/
       {% for category in post.categories %}
         <div class="chip">{{ category }}</div>
       {% endfor %}
-      </p>
     </div></a></li>
 {% endfor %}
 </ul>

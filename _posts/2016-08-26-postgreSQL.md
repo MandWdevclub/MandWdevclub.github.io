@@ -10,11 +10,13 @@ categories: flask ios postgresql
 ---
 
 
-#Creating a Super Simple Flask Endpoint
+#Data Persistence with PostgreSQL
 
 ###Post Contents
 ######1. Overview
 ######2. Setting Up PostgreSQL 
+######3. Adding a model
+######4. Making Moves
 
 ####1. Overview
 

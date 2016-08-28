@@ -103,7 +103,7 @@ Now if we access our database via ```psql``` command, we would be able to enter 
 
 ####4. Making Moves
 
-If you've made it this far without errors, take a moment to congratulate yourself. Ok, now back to work. Our final part of this tutorial series is using our database within a flask route via our ```db``` object from ```SQLAlchemy```. Let's see this in action with the following code:
+If you've made it this far without errors, take a moment to congratulate yourself. Ok, now back to work. The finale of this series begins now! We'll be using our ```db``` object from ```SQLAlchemy``` within a flask route for links of the interwebz. Let's see this in action with the following code:
 
 ```
 @app.route('/links', methods=['POST', 'GET'])
@@ -125,21 +125,12 @@ def names():
 ```
 (note: this code is vulnerable to an SQL injection, why? Also, how would you fix it?)
 
-Ok, so what's the lowdown of this file? First, we create a new route that can handle POST and GET requests. EASY! Then, when a client makes a GET request, we do some interesting stuff. The ```Link``` object which extends ```db.Model``` has an attribute ```query``` which allows you to make queries against your database for the table represented by ```Link```. In this case ```query.all()``` returns all the rows of the table. If you look at the ```SQLAlchemy``` API you can find some cool queries to filter based on parameters of your choice. Once we have a list of all the rows from the ```links``` table, we convert them from unicode to a regular string and serve them in a JSON array. SIMPLE!
+Ok, so what's the lowdown of this file? First, we create a new route that can handle POST and GET requests. EASY! Then, when a client makes a GET request, we do some interesting stuff. The ```Link``` object which extends ```db.Model``` has an attribute ```query``` which allows you to make queries against your database for the ```links``` table. In this case ```query.all()``` returns all the rows of the table. If you look at the ```SQLAlchemy``` API you can find some cool queries to filter based on parameters of your choice. Once we have a list of all the rows from the ```links``` table, we convert them from unicode to a regular string and serve them in a JSON array. SIMPLE!
 
-Let's look at part number 2, the POST request handler. In this, we make sure the client gave us JSON with a ```url``` field, and then we instantiate a new ```Link``` object with the request's url.  
-
-
-
-
-first run create_all() before using the db (possibly automate this)
-add a test row to your database  http://flask-sqlalchemy.pocoo.org/2.1/quickstart/
-
-possibly add alembic migration
-
-in GET route, display jsonified table
-in POST route commit a new link
+Let's look at part number 2, the POST request handler. In this handler, we make sure the client gave us JSON with a ```url``` field, and then we instantiate a new ```Link``` object with the request's url. Now we do something very cool. We use the ```db.session``` attribute. The ```session``` attribute allows us to add multiple commands to it. In this instance, we're queueing up a ```.add(link)``` command. Once you have queued up all the commands that you would like to apply to your database, you call a method, ```commit()```. This is an important aspect of databases to understand. Essentially, you want all the commands that you queued up in the ```session``` to be applied to your database in unison once you call ```commit()```. It's important, because it allows the database to either complete all the commands, or fail at all the commands as well, rather than getting through half of them and then having the server die, and then you not knowing what has been committed to your database. If you would like to learn more about this, I highly recommend this coursera course: https://www.coursera.org/learn/cloud-computing-2 which describes the importance of maintaining atomic transactions.
 
 
 
+###Wrapping Up
 
+In this workshop series we learned how to set up our server infrastructure on digital ocean. We learned how to create a flask endpoint and test it with postman. Finally, we learned how to atomically use persistent data. What we did not learn was how to do this securely. If you followed this tutorial, someone can access an unprotected port of your server, AND they can cause an SQL injection. Most likely they can do some pretty nasty stuff to nginx as well. Again, this workshop was for beginners, so that you can see the different serverside components and how they interact.

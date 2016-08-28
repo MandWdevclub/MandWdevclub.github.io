@@ -54,7 +54,7 @@ One more thing must be done to set up our postgres database. Creating the databa
 sudo -u postgres createdb sammy
 ```
 
-Traditionally, instead of creating a database and user/role named sammy, you would do something like '<your project name here> instead. However, for simplicities sake, let's get through this part quickly. If you would like to do a deeper dive, check out one of Digital Ocean's excellent tutorials: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04
+Traditionally, instead of creating a database and user/role named sammy, you would do something like '<your project name here>' instead. However, for simplicities sake, let's get through this part quickly. If you would like to do a deeper dive, check out one of Digital Ocean's excellent tutorials: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04
 
 
 #### 3. Adding a Model

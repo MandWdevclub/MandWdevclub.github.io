@@ -134,6 +134,15 @@ Ok, so what's the lowdown of this file? First, we create a new route that can ha
 Let's look at part number 2, the POST request handler. In this handler, we make sure the client gave us JSON with a ```url``` field, and then we instantiate a new ```Link``` object with the request's url. Now we do something very cool. We use the ```db.session``` attribute. The ```session``` attribute allows us to add multiple commands to it. In this instance, we're queueing up a ```.add(link)``` command. Once you have queued up all the commands that you would like to apply to your database, you call a method, ```commit()```. This is an important aspect of databases to understand. Essentially, you want all the commands that you queued up in the ```session``` to be applied to your database in unison once you call ```commit()```. It's important, because it allows the database to either complete all the commands, or fail at all the commands as well, rather than getting through half of them and then having the server die, and then you not knowing what has been committed to your database. If you would like to learn more about this, I highly recommend this coursera course: https://www.coursera.org/learn/cloud-computing-2 which describes the importance of maintaining atomic transactions.
 
 
+Too much reading? Go ahead and test out your server with postman! If something isn't working, try just running
+
+```
+python myproject.py
+```
+
+and visiting your server on whichever port it's configured to go to. Once there, test out the ```/links``` route to see if GET works with no syntax errors.
+
+
 
 ### Wrapping Up
 

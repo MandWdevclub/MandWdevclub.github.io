@@ -10,21 +10,25 @@ categories: flask ios postgresql
 ---
 
 
-#Data Persistence with PostgreSQL
+# Data Persistence with PostgreSQL
 
-###Post Contents
-######1. Overview
-######2. Setting Up PostgreSQL 
-######3. Adding a Model
-######4. Making Moves
+### Post Contents
 
-####1. Overview
+###### 1. Overview
+
+###### 2. Setting Up PostgreSQL 
+
+###### 3. Adding a Model
+
+###### 4. Making Moves
+
+#### 1. Overview
 
 Last time on Flask n' iOS, we built an endpoint, and we added some logic to store data from incoming POST requests. This is legitimately pretty damn cool. However, when we shut down the server, what happens to our ```data``` dictionary? The problem is that this isn't persistent, because it's stored in memory alongside the running flask process. When the process is killed, the ```data``` dictionary is lost. We can fix this with a database, which will securely store our data on disk for later retrieval. For the purpose of this tutorial, we'll use postgreSQL with SQLAlchemy, the database and a library for working with SQL databases, respectively. PostgreSQL is an efficient database that isn't too difficult to setup and use, which is why we're using it over sqlite or mysql. Enough talk, let's get our hands dirty!
 
-######*WARNING* be sure to remember to restart your server and activate your virtual environment whenever you're making changes to flask that you want nginx and gunicorn to reflect.
+###### *WARNING* be sure to remember to restart your server and activate your virtual environment whenever you're making changes to flask that you want nginx and gunicorn to reflect.
 
-####2. Setting Up PostgreSQL
+#### 2. Setting Up PostgreSQL
 
 Our first task is to.... You guessed it, install more dependencies! Let's begin with postgreSQL:
 
@@ -53,7 +57,7 @@ sudo -u postgres createdb sammy
 Traditionally, instead of creating a database and user/role named sammy, you would do something like '<your project name here> instead. However, for simplicities sake, let's get through this part quickly. If you would like to do a deeper dive, check out one of Digital Ocean's excellent tutorials: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04
 
 
-####3. Adding a Model
+#### 3. Adding a Model
 
 Now that postgres is good to go, let's switch gears back to flask development. If you don't have it activated already, activate your virtual environment for myproject, so that we can pip install some dependencies. Now let's install the following:
 
@@ -101,7 +105,7 @@ db.create_all()
 
 Now if we access our database via ```psql``` command, we would be able to enter ```\dt``` and it would display the current tables in the ```sammy``` database, one of which is ```links```.
 
-####4. Making Moves
+#### 4. Making Moves
 
 If you've made it this far without errors, take a moment to congratulate yourself. Ok, now back to work. The finale of this series begins now! We'll be using our ```db``` object from ```SQLAlchemy``` within a flask route for links of the interwebz. Let's see this in action with the following code:
 
@@ -131,6 +135,6 @@ Let's look at part number 2, the POST request handler. In this handler, we make 
 
 
 
-###Wrapping Up
+### Wrapping Up
 
 In this workshop series we learned how to set up our server infrastructure on digital ocean. We learned how to create a flask endpoint and test it with postman. Finally, we learned how to atomically use persistent data. What we did not learn was how to do this securely. If you followed this tutorial, someone can access an unprotected port of your server, AND they can cause an SQL injection. Most likely they can do some pretty nasty stuff to nginx as well. Again, this workshop was for beginners, so that you can see the different serverside components and how they interact.

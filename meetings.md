@@ -11,7 +11,7 @@ permalink: /meetups/
 
 ## Meetups
 
--Meetups are held Tuesdays or Thursday at  6:30PM in [Lavery Hall](https://www.vt.edu/about/buildings/lavery-hall.html) room 345. Meetups usually vary from workshops to tech talks to group work on apps.
+-Meetups are held Tuesdays at  6:30PM in [McBryde Hall](http://www.vt.edu/about/buildings/mcbryde-hall.html) Room 308. Meetups usually vary from workshops to tech talks to group work on apps.
 
 -Anyone can lead a meetup if they have a topic they're passionate about. Just email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>.
 

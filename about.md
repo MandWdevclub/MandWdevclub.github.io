@@ -76,7 +76,7 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
                </div>
                <div class="card-reveal">
                  <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
-                 <p>Hellooo. I've done some stuff with Android and Frontend web development (HTML, CSS, Javascript ES6, React, etc.)</p>
+                 <p>Hellooo. I've done some stuff with Android and Frontend web development (HTML, CSS/SCSS, Javascript ES6, React, etc.)</p>
                </div>
              </div>
           </div>

@@ -11,7 +11,7 @@ permalink: /meetups/
 
 ## Meetups
 
--Fall 2016 Regular meetups are held Tuesday at 6:00pm in MCB 308 and or Thursdays at 6:00pm in MCB 238[McBryde Hall](http://www.vt.edu/about/buildings/mcbryde-hall.html). Meetups usually vary from workshops to tech talks to group work on apps.
+-Fall 2016 Regular meetups are held Tuesday at 6:00pm in MCB 308 and or Thursdays at 6:00pm in MCB 238 [McBryde Hall](http://www.vt.edu/about/buildings/mcbryde-hall.html). Meetups usually vary from workshops to tech talks to group work on apps.
 
 -Anyone can lead a meetup if they have a topic they're passionate about. Just email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>.
 

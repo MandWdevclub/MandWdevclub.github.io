@@ -93,6 +93,9 @@ permalink: /
       <div class="col s12 m6 center">
         <a href="https://hackware.io/"><img src="/images/hackware_logo.png"></a>
       </div>
+      <div class="col s12 m6 center">
+        <a href="https://hackware.io/"><img src="/images/hackware_logo.png"></a>
+      </div>
     </div>
 
   </div>

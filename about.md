@@ -40,7 +40,7 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
            </div>
            <div class="card-reveal">
              <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
-             <p>Hey there! Feel free to let me know if you ever want/need some help on a side project. The only thing I don't know is iOS, but I'm not afraid of learning if it means I can help!</p>
+             <p>Hey there! Feel free to let me know if you ever want/need some help on a side project! Also, if you're looking for a partner on a distributed systems project, email me!</p>
            </div>
          </div>
       </div>

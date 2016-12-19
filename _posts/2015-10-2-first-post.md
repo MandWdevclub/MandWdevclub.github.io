@@ -19,6 +19,4 @@ Hopefully, I explained this community well enough to encourage you to come to a 
 
 Even better if you come to give a tech talk on your favorite technology. Just ask someone to edit the spreadsheet on the meetups page, and you'll be able to. We really don't expect you to prepare a whole lot for a tech talk, just to explain the problems you ran into so that other people don't run into those themselves. Or, if you don't like public speaking, you can still become a community leader by making a tech post to this blog!
 
-
-
-P.S. There is no dumb question.
+PS Any question is a good one, don't feel uncomfortable asking! 

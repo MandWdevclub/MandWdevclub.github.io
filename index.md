@@ -83,7 +83,7 @@ permalink: /
 <div class="section">
   <div class="container">
 
-    <h2 class="header center grey-text text-darken-4">Guest Speakers</h2>
+    <h2 class="header center grey-text text-darken-4">Guest Speakers & Sponsors</h2>
 
     <div class="row guest-speakers">
       <div class="col s12 m6 center">
@@ -91,7 +91,7 @@ permalink: /
       </div>
 
       <div class="col s12 m6 center">
-        <a href="https://hackware.io/"><img src="/images/hackware_logo.png"></a>
+        <a href="http://www.appian.com/about/careers/life-at-appian/"><img src="http://www.appian.com/assets/Appian_DiamondLogo_solidRED.png"></a>
       </div>
     </div>
 

@@ -9,9 +9,7 @@ permalink: /apps/
   <div class="container">
 
     <h2>Club made apps</h2>
-    <p>
-      Note that these apps may not be up to date and may have been made by now allumni!
-    </p>
+    
     <div class="row">
 
       <div class="col s12 m3">
@@ -21,7 +19,8 @@ permalink: /apps/
             <span class="card-title">Hokie Helper</span>
           </div>
           <div class="card-action">
-            <a href="https://play.google.com/store/apps/details?id=org.mad.app.hokiehelper&hl=en">Google Play</a>
+            <span>Hokie Helper</span>
+            <a href="https://play.google.com/store/apps/details?id=org.mad.app.hokiehelper&hl=en">Hokie Helper</a>
           </div>
         </div>
       </div>

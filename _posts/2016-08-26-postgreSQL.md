@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flask n' iOS Part 3: Data Persistence with PostgreSQL"
+title: "Flask n' iOS: Data Persistence with PostgreSQL"
 author: Trevor Senior
 date: 2016-08-26
 updated: 2016-08-26

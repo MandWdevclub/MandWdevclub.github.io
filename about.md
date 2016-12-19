@@ -30,7 +30,7 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
       <div class="col s10 m5">
         <div class="card">
            <div class="card-image waves-effect waves-block waves-light">
-             <img class="activator" src="http://d2owh5u2706d1n.cloudfront.net/uploads/fellow/image/255/medium_Edward_McEnrue-20935ae7c473ec0e057b31db9c6e7380.jpg">
+             <img class="activator" src="http://i.imgur.com/u9n30ho.jpg?1">
            </div>
            <div class="card-content">
              <span class="card-title activator grey-text text-darken-4">Edward McEnrue<i class="material-icons right">more_vert</i></span>

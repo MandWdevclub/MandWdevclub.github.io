@@ -16,11 +16,9 @@ permalink: /apps/
         <div class="card">
           <div class="card-image">
             <img src="https://lh3.ggpht.com/iaSaQWZHDkoJiwO0zmGJkHsoHutMqej5nulxth_ufNy34ZPY9M1O8OnegGxD3TFD8pw=w300">
-            <span class="card-title">Hokie Helper</span>
           </div>
           <div class="card-action">
             <span>Hokie Helper</span>
-            <a href="https://play.google.com/store/apps/details?id=org.mad.app.hokiehelper&hl=en">Hokie Helper</a>
           </div>
         </div>
       </div>
@@ -29,10 +27,9 @@ permalink: /apps/
         <div class="card">
           <div class="card-image">
             <img src="/images/expression_guessin_logo.png">
-            <span class="card-title">Expression' Guessin'</span>
           </div>
           <div class="card-action">
-            <a href="https://www.microsoft.com/en-us/store/apps/expression-guessin/9nblggh0dvhw">Microsoft Store</a>
+            <span>Expression' Guessin'</span>
           </div>
         </div>
       </div>
@@ -41,9 +38,9 @@ permalink: /apps/
         <div class="card">
           <div class="card-image">
             <img src="/images/vthacks_logo.png">
-            <span class="card-title">VTHacks app</span>
           </div>
           <div class="card-action">
+            <span>VTHacks app</span>
           </div>
         </div>
       </div>
@@ -52,9 +49,9 @@ permalink: /apps/
         <div class="card">
           <div class="card-image">
             <img src="/images/bt_mobile_logo.png">
-            <span class="card-title">Blacksburg Transit</span>
           </div>
           <div class="card-action">
+            <span>Blacksburg Transit</span>
           </div>
         </div>
       </div>

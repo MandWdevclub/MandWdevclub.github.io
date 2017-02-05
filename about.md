@@ -75,7 +75,7 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
                </div>
                <div class="card-reveal">
                  <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
-                 <p>Hellooo. I've done some stuff with Android and Frontend web development (HTML, CSS/SCSS, Javascript ES6, React, etc.)</p>
+                 <p>Hellooo. I've done stuff with Android, HTML, CSS, React.js, and Node.js</p>
                </div>
              </div>
           </div>
@@ -97,30 +97,6 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
                    </div>
                  </div>
               </div>
-
-
-  </div><!-- container for row-->
-
-  <div class="row">
-    <div class="col s10 m5">
-          <div class="card">
-             <div class="card-image waves-effect waves-block waves-light">
-               <img class="activator" src="https://avatars3.githubusercontent.com/u/1645592?v=3&s=460">
-             </div>
-             <div class="card-content">
-               <span class="card-title activator grey-text text-darken-4">Robert Wenger<i class="material-icons right">more_vert</i></span>
-               <p> Email: rwenger at vt.edu
-        </p>
-            </div>
-             <div class="card-reveal">
-               <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
-               <p>Hey, I'm Robert.  I do web development with PHP and MySQL.
-                  Feel free to contact me with any questions with back end development</p>
-             </div>
-           </div>
-        </div>
-  </div><!-- container for row-->
-
 </div><!-- section -->
 
 <div class="section">
@@ -137,6 +113,7 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
 <li>Laxmi Harshitha Patha (<a href="https://www.linkedin.com/pub/laxmi-harshitha-patha/65/609/387">LinkedIn</a>)</li>
 <li>Trevor Senior (<a href="https://github.com/trevorsenior">GitHub</a>)</li>
 <li>Irtiza Delwar (<a href="https://github.com/IrtizaDelwar">GitHub</a>)</li>
+<li>Robert Wenger rwenger at vt.edu</li>
 </ul>
 
 

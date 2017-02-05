@@ -98,7 +98,7 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
 <li>Trevor Senior (<a href="https://github.com/trevorsenior">GitHub</a>)</li>
 <li>Irtiza Delwar (<a href="https://github.com/IrtizaDelwar">GitHub</a>)</li>
 <li>Robert Wenger (rwenger at vt.edu )</li>
-<li>Jayanth Prathipati (<a href="http://github.com/jayprat95">GitHub</a>, <a href="http://jprathipati.com"></a>)</li>
+<li>Jayanth Prathipati (<a href="http://github.com/jayprat95">GitHub</a>, <a href="http://jprathipati.com">Website</a>)</li>
 </ul>
 
 

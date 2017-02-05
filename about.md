@@ -75,7 +75,7 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
                </div>
                <div class="card-reveal">
                  <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
-                 <p>Hellooo. I've done stuff with Android, HTML, CSS, React.js, and Node.js</p>
+                 <p>Hellooo. I've done some stuff with Android and Frontend web development (HTML, CSS/SCSS, Javascript ES6, React, etc.)</p>
                </div>
              </div>
           </div>
@@ -97,6 +97,9 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
                    </div>
                  </div>
               </div>
+
+
+  </div><!-- container for row-->
 </div><!-- section -->
 
 <div class="section">
@@ -113,7 +116,7 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
 <li>Laxmi Harshitha Patha (<a href="https://www.linkedin.com/pub/laxmi-harshitha-patha/65/609/387">LinkedIn</a>)</li>
 <li>Trevor Senior (<a href="https://github.com/trevorsenior">GitHub</a>)</li>
 <li>Irtiza Delwar (<a href="https://github.com/IrtizaDelwar">GitHub</a>)</li>
-<li>Robert Wenger (rwenger at vt.edu)</li>
+<li>Robert Wenger (rwenger at vt.edu )</li>
 </ul>
 
 

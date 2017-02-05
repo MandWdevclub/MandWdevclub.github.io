@@ -14,8 +14,6 @@ permalink: /
         <div class="row center">
           <h5 class="header col s12 light orange-text text-lighten-5">Welcome! We are a group of VT students who are interested in Web and Mobile apps!</h5>
           <br><br>
-           <a href="https://github.com/MandWdevclub/MandWdevclub.github.io/blob/master/README.md">Want to contribute to this site?</a>
-
         </div>
         <div class="row center">
           <a href="/about/" id="download-button" class="btn-large waves-effect waves-light orange lighten-1">Learn More</a>

@@ -79,33 +79,14 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
                </div>
              </div>
           </div>
-
-          <div class="col s10 m5">
-                <div class="card">
-                   <div class="card-image waves-effect waves-block waves-light">
-                     <img class="activator" src="/images/jayanthpic.png">
-                   </div>
-                   <div class="card-content">
-                     <span class="card-title activator grey-text text-darken-4">Jayanth Prathipati<i class="material-icons right">more_vert</i></span>
-                     <p><a href="http://github.com/jayprat95">GitHub</a>,
-                     <a href="http://jprathipati.com">jprathipati.com</a>
-        			</p>
-                   </div>
-                   <div class="card-reveal">
-                     <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
-                     <p>Hi, I'm Jayanth. I'm the creator of Compost and an iOS developer at Element 84. I also do research at the Usability Lab at Virginia Tech</p>
-                   </div>
-                 </div>
-              </div>
-
-
+          
   </div><!-- container for row-->
 </div><!-- section -->
 
 <div class="section">
   <div class="container">
 
-<h2>Past Leaders</h2>
+<h2>Hall of Fame (allumni)</h2>
 
 <ul>
 <li>Avneet Singh (<a href="https://github.com/avneet723">GitHub</a>, <a href="https://www.linkedin.com/in/avneets">LinkedIn</a>, <a href="https://twitter.com/avneet723">Twitter</a>)</li>
@@ -117,6 +98,7 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
 <li>Trevor Senior (<a href="https://github.com/trevorsenior">GitHub</a>)</li>
 <li>Irtiza Delwar (<a href="https://github.com/IrtizaDelwar">GitHub</a>)</li>
 <li>Robert Wenger (rwenger at vt.edu )</li>
+<li>Jayanth Prathipati (<a href="http://github.com/jayprat95">GitHub</a>, <a href="http://jprathipati.com"></a>)</li>
 </ul>
 
 

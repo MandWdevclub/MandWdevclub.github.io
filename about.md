@@ -113,7 +113,7 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
 <li>Laxmi Harshitha Patha (<a href="https://www.linkedin.com/pub/laxmi-harshitha-patha/65/609/387">LinkedIn</a>)</li>
 <li>Trevor Senior (<a href="https://github.com/trevorsenior">GitHub</a>)</li>
 <li>Irtiza Delwar (<a href="https://github.com/IrtizaDelwar">GitHub</a>)</li>
-<li>Robert Wenger rwenger at vt.edu</li>
+<li>Robert Wenger (rwenger at vt.edu)</li>
 </ul>
 
 

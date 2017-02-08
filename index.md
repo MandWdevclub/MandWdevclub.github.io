@@ -94,7 +94,7 @@ permalink: /
     </div>
     
     <div class="row guest-speakers">
-        <div class="col s12 m6 center">
+        <div class="col s12 center">
             <a href="https://www.facebook.com/careers/"><img src="/images/new-facebook-logo-2015-400x400.png"></a>
         </div>
     </div>

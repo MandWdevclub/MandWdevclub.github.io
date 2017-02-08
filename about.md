@@ -86,7 +86,7 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
 <div class="section">
   <div class="container">
 
-<h2>Hall of Fame (allumni)</h2>
+<h2>Hall of Fame (alumni)</h2>
 
 <ul>
 <li>Avneet Singh (<a href="https://github.com/avneet723">GitHub</a>, <a href="https://www.linkedin.com/in/avneets">LinkedIn</a>, <a href="https://twitter.com/avneet723">Twitter</a>)</li>

@@ -97,7 +97,7 @@ permalink: /
         <div class="col s12 center">
             <a href="https://www.facebook.com/careers/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_(2015).svg/1280px-Facebook_New_Logo_(2015).svg.png"></a>
         </div>
-        <div class="col s12 m6 center">
+        <div class="col s12 center">
             <a href="http://www.modea.com/careers/"><img src="/images/modea.png"></a>
         </div>
     </div>

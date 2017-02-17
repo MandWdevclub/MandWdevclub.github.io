@@ -92,7 +92,7 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
           </div>
           <div class="card-reveal">
             <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
-            <p>I am the first human being to have merged with Node.js</p>
+            <p>I can help with all things Node.js :)</p>
           </div>
         </div>
       </div>

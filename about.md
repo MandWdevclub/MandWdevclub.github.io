@@ -23,7 +23,7 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
   <div class="container">
 
     <h2>Current Leaders</h2>
-
+    
     <div class="row">
 
       <div class="col s10 m5">
@@ -63,24 +63,40 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
     </div>
     <div class="row">
       <div class="col s10 m5">
-            <div class="card">
-               <div class="card-image waves-effect waves-block waves-light">
-                 <img class="activator" src="/images/armanpic.PNG">
-               </div>
-               <div class="card-content">
-                 <span class="card-title activator grey-text text-darken-4">Arman Bahraini<i class="material-icons right">more_vert</i></span>
-                 <p><a href="https://github.com/MegaArman">GitHub</a>,
-                 <a href="https://www.linkedin.com/in/arman-bahraini-21b171106">LinkedIn</a>
-    			</p>
-               </div>
-               <div class="card-reveal">
-                 <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
-                 <p>Hellooo. I've done some stuff with Android, HTML, SCSS/CSS, React.js, and Node.js</p>
-               </div>
-             </div>
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="/images/armanpic.PNG">
           </div>
-          
-  </div><!-- container for row-->
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">Arman Bahraini<i class="material-icons right">more_vert</i></span>
+            <p><a href="https://github.com/MegaArman">GitHub</a>,
+            <a href="https://www.linkedin.com/in/arman-bahraini-21b171106">LinkedIn</a>
+            </p>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
+            <p>Hellooo. I've done some stuff with Android, HTML, SCSS/CSS, React.js, and Node.js</p>
+          </div>
+        </div>
+      </div>
+      <div class="col s10 m5">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="/images/KENNY.jpg">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">Kenny Worden<i class="material-icons right">more_vert</i></span>
+            <p><a href="https://github.com/kkworden">GitHub</a>,
+            <a href="https://www.linkedin.com/in/kenneth-worden-797924a7/">LinkedIn</a>
+            </p>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
+            <p>I am the first human being to have merged with Node.js</p>
+          </div>
+        </div>
+      </div>
+    </div><!-- container for row-->
 </div><!-- section -->
 
 <div class="section">

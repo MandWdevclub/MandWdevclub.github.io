@@ -97,6 +97,26 @@ Email <a href="mailto:vtappdevelopment@gmail.com">vtappdevelopment@gmail.com</a>
         </div>
       </div>
     </div><!-- container for row-->
+    
+    <div class="row">
+      <div class="col s10 m5">
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="/images/AMIT_CROPPED.jpg">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">Amit Dayal<i class="material-icons right">more_vert</i></span>
+            <p><a href="https://github.com/adayal">GitHub</a>,
+            <a href="https://www.linkedin.com/in/amit-dayal-28590284">LinkedIn</a>
+            </p>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">Additional Info<i class="material-icons right">close</i></span>
+            <p>I've done a few talks on Node, SQL, and PHP, but I'm always interested in learning new topics. Feel free to let me know if you need any help at a meetup!</p>
+          </div>
+        </div>
+      </div>
+    </div><!-- container for row-->
 </div><!-- section -->
 
 <div class="section">

@@ -378,6 +378,6 @@ https://www.ietf.org/rfc/rfc768.txt
 Nevertheless, this should give you a good understanding of the type of things
 flask is doing to respond to and listen for the HTTP requests you receive.
 
-Also, if you find this stuff interesting, I encourage you to get involved with the systems professors at VT.
+Also, if you find this stuff interesting, I encourage you to get involved with the systems research at VT.
 
 

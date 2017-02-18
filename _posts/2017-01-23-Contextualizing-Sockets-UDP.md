@@ -372,7 +372,11 @@ http://tutorials.jenkov.com/java-multithreaded-servers/singlethreaded-server.htm
 
 Likewise, we didn't see how to make this a multithreaded application, which is
 an important aspect of writing a server that processes incoming data! (so that a
-  single client can't hog the server).
+  single client can't hog the server). As a final caveat, this post compresses a TON of information, and so not all of it is 100% accurate. You'll have to do some extra research to start to build your own mental model of how the internet works. For example, here's the specifications for TCP and UDP:
+  
+https://tools.ietf.org/html/rfc793
+
+https://www.ietf.org/rfc/rfc768.txt
 
 Nevertheless, this should give you a good understanding of the type of things
 flask is doing to respond to and listen for the HTTP requests you receive.

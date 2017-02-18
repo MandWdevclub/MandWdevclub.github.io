@@ -9,7 +9,7 @@ headingTextColor: "#FEFEFE"
 categories: UDP sockets networking
 ---
 
-This post is partially a follow up on the flask endpoint tutorials I wrote. I
+This post is partially a follow up on the flask endpoint tutorials. I
 realized that without the context of how flask works internally, it will probably
 seem like black magic even if flask is simple. This post/workshop will hopefully
 dispel any confusion by providing the context you need to succeed!
@@ -35,9 +35,9 @@ and asked yourself, "what the hell are sockets?" Then this is the workshop for y
 
 Rather than use any framework to create a very, very simple server, today you'll
 use just what your computer's OS provides to you for interacting with the internet. 
-In particular, this resource that the OS provides is called a "socket".
+What is this resource that the OS provides? It's called a "socket".
 Sockets are used by pretty much everything connected to the internet. They are the
-object that developers use to send a string of characters to another computer. That
+object/resource that developers use to send a string of characters to another computer. That
 may sound abstract, but we'll see how they work concretely soon enough.
 
 In addition to sockets, I'll discuss UDP (User datagram protocol) and how it relates
@@ -57,22 +57,21 @@ the car, put your keys in the ignition and turn the key. See, not so bad.
 So what is UDP then? This protocol is a way of reading a series of bytes,
 and determining how to construct something meaningful from it. It just so happens
 that this series of bytes came from another computer, AND this series of bytes
-passed through a socket at one point of time, which put them into the format they
+passed through a socket at one point of time, which is what put the series of bytes into the format they
 are currently in. The most important part of this protocol is that it is "connectionless".
-That means when you send data to another computer, it may not arrive in the same
-order of transmission, or it may not arrive at all (it might get dropped by some
-routing machine somewhere). You may say, well UDP is total crap then, but it turns out
+That means when you send data to another computer, the packets may not arrive in the same
+order of transmission, or the data may not arrive at all (it might get dropped by some
+routing machine somewhere). You may say, "well UDP is total crap then." BUT it turns out
 that by enforcing a minimal amount of constraints on the way your data is handled over the internet,
-it makes the transmission of your data SUPER ULTRA fast. Another protocol, TCP, is the more constrained, but more reliable version of UDP, and it's what many modern
-websites use to send you HTTP communication when you're browsing websites.
+it makes the transmission of your data SUPER ULTRA fast. Another protocol, TCP, is a more constrained, but more reliable protocol, and it's what many modern
+websites use to send you HTTP communication when you're browsing websites. This post is about UDP, because I think it's easier to understand, and UDP is used frequently for many applications where reliability isn't paramount, but speed is.
 
-Ok, very cool, but how does this information help you? Great question! Sockets can be
-configured to say, "the data that I'm sending is using a protocol like UDP". In fact,
-you will be doing that very soon. Once we configure a socket object to use a protocol,
-we can give it an IP address and a port number (the way to identify where to send data),
+Ok, very cool, but how does this information help you? Great question! It helps, because now that you understand the background of UDP, you can understand what a socket configured to use UDP is doing. In other words, sockets can be
+configured to say, "the data that I'm sending is using the protocol UDP". In fact,
+you will be doing that very soon. Once you configure a socket object to use a protocol,
+then you can give it an IP address and a port number (the way to identify where to send data),
 or just a port number (the way to identify where to receive data on your computer),
-and we can give it some data, and then tell it to send that data. The OS will handle
-the rest. IF you reached this point, and you're still confused, that's OK, you don't
+and then you can give it some data, and then tell the socket to send that data. The OS, your wifi device, and the internet will handle the rest. Pretty cool! IF you reached this point, and you're still confused, that's OK, you don't
 need to know how the entire internet works in order to use sockets!
 
 
@@ -122,9 +121,8 @@ public class UDPClient {
 
 
 Essentially, what we want to do is fill in the run method to use a DatagramSocket
-object (java's version of a socket configured for UDP). When we pass in a string
-from the command line, we want the socket to send it to another computer at a
-destination IP address and destination port. That's a lot simpler than it sounds,
+object (java's version of a socket configured for UDP, less work for you!). Likewise, when we pass in a string to this method from the command line, we want the DatagramSocket to send it to another computer at a
+destination IP address and port. That's a lot simpler than it sounds,
 so lets do that now:
 
 
@@ -179,7 +177,7 @@ public class UDPClient {
 
 
 As promised, the first two variables declared are the port and IP address of your
-server, which your client will send data to. We then create our socket using UDP.
+server, which your client will send data to (don't forget to replace this). We then create our DatagramSocket.
 Next we create a byte array from our message string, and we package it in a
 DatagramPacket like so:
 
@@ -189,17 +187,17 @@ DatagramPacket data = new DatagramPacket(buf, buf.length, addr, UDP_SERVER_PORT)
 ```
 
 
-A DatagramPacket is java's way of interpreting data that is configured to use UDP.
+A DatagramPacket is java's way of interpreting data that is packaged for UDP. This is nice, because we don't need to know the internals of UDP, just what benefits it provides, and what objects are needed to take advantage of them.
 Finally, we send the data from the socket, and once that's complete, we close the
 socket. "Wait, that was it?!" Yup, you just sent data with no flask, no node, just
-with sockets magic.
+with sockets.
 
 
 #### 4. Coding the Server
 
 But wait, how do you know that I'm not just pranking you and that
 sockets, like unicorns, are not just a figment of my imagination? To make sure I'm
-not a prankster, we need to create another socket that is waiting at the IP
+not a youtube prank master, we need to create another socket that is listening/receiving at the IP
 address and the port we sent data to. Again we'll create two files:
 
 In UDPSocketsServerExample.java we'll put
@@ -356,17 +354,16 @@ Once that's setup, copy your server java files, and compile them with ```javac U
 Then run the server with ```java UDPSocketsServerExample```.
 Now on your local machine, run the client after you've changed the IP to be the IP
 address of your server. You should see that your message printed out, but UDP packets
-can be dropped, so you may have to send a few messages.
+can be dropped, so you may have to send a few messages. 
 
 
 #### 5. Quick Conclusion
 
 Congrats if you made it this far! In this workshop, you built client and server sockets configured to use UDP, and then you had them communicate some data from your
-commandline. C00L! With this knowledge, you know how to build the foundational
+commandline. C00L! With this knowledge, you know how to build a foundational
 element of a massive amount of server infrastructure applications.
 
-Now, what did you not do? You didn't use TCP sockets, which are very useful to know. The following blog does a good job of describing how
-to build a client and server with TCP sockets:
+Now, what did you not do? You didn't use TCP sockets, which are very useful to know. The following blog does a good job of describing how to build a client and server with TCP sockets:
 
 http://tutorials.jenkov.com/java-multithreaded-servers/singlethreaded-server.html
 
@@ -380,3 +377,7 @@ https://www.ietf.org/rfc/rfc768.txt
 
 Nevertheless, this should give you a good understanding of the type of things
 flask is doing to respond to and listen for the HTTP requests you receive.
+
+Also, if you find this stuff interesting, I encourage you to get involved with the systems professors at VT.
+
+

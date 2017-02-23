@@ -51,7 +51,7 @@ Enough talk, let us begin!
 First off, there are two terms that will be covered in this part of the workshop:
 UDP (User Datagram Protocol) and sockets. The fact that UDP has the word "protocol"
 in it may at first be intimidating until you realize that a protocol is simply
-a way of doing things. For example, the protocol for starting a car is to get into
+a way of doing things, or an agreed way to communicate. For example, the protocol for starting a car is to get into
 the car, put your keys in the ignition and turn the key. See, not so bad.
 
 So what is UDP then? This protocol is a way of reading a series of bytes,

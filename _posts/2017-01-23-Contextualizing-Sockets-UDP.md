@@ -375,6 +375,10 @@ https://tools.ietf.org/html/rfc793
 
 https://www.ietf.org/rfc/rfc768.txt
 
+and a nice overview of networking if you're interested:
+
+http://www-inst.cs.berkeley.edu/~cs161/sp14/slides/2.26.Netwk.pdf
+
 Nevertheless, this should give you a good understanding of the type of things
 flask is doing to respond to and listen for the HTTP requests you receive.
 

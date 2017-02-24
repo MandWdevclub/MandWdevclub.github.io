@@ -63,7 +63,7 @@ That means when you send data to another computer, the packets may not arrive in
 order of transmission, or the data may not arrive at all (it might get dropped by some
 routing machine somewhere). You may say, "well UDP is total crap then." BUT it turns out
 that by enforcing a minimal amount of constraints on the way your data is handled over the internet,
-it makes the transmission of your data SUPER ULTRA fast. Another protocol, TCP, is a more constrained, but more reliable protocol, and it's what many modern
+it makes the transmission of your data fast. Another protocol, TCP, is a more constrained, but more reliable protocol, and it's what many modern
 websites use to send you HTTP communication when you're browsing websites. This post is about UDP, because I think it's easier to understand, and UDP is used frequently for many applications where reliability isn't paramount, but speed is.
 
 Ok, very cool, but how does this information help you? Great question! It helps, because now that you understand the background of UDP, you can understand what a socket configured to use UDP is doing. In other words, sockets can be

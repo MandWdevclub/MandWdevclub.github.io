@@ -163,7 +163,7 @@ def connect(user, password, db, host='localhost', port=5432):
 
 
 
-con, meta = connect('addiction_tracker_admin', 'gohokies1!', 'addiction_tracker_test')
+con, meta = connect('generic_admin', 'gohokies1!', 'generic_admin_test')
 DeclarativeBase.metadata.create_all(con) #will automatically create the users table based on subclasses
 db_session = sessionmaker(bind=con)
 
